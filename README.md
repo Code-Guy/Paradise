@@ -9,7 +9,7 @@ Well, I have to admit that I'm a big fan of "Minecraft", it's a great game. Alth
 
 Have fun!
 ###How to play
-1.Press "W A S D" to move your view, with the "shift" key to accelerate;
+  1.Press "W A S D" to move your view, with the "shift" key to accelerate;
   2.Move mouse to rotate your view;
   3.Press left mouse button to build block;
   4.Press right mouse button to destroy block;
@@ -27,14 +27,12 @@ Have fun!
  - Mouse Picking
  - Anti-Aliasing(based on MSAA)
  - Qt Multimedia
- ###Framework
+###Framework
  Qt + OGL
- ###More Examples
- <center>
+###More Examples
+  <center>
   ![overlook](https://github.com/Code-Guy/Paradise/blob/master/snapshots/%5B3W6@N%60AVOL_$%7B519P%5DFELI.png?raw=true)
-  <center>
   ![overlook](https://github.com/Code-Guy/Paradise/blob/master/snapshots/QQ%E6%88%AA%E5%9B%BE20160705145943.png?raw=true)
-  <center>
-![overlook](https://github.com/Code-Guy/Paradise/blob/master/snapshots/QQ%E6%88%AA%E5%9B%BE20160705150546.png?raw=true)
-
-![overlook](https://github.com/Code-Guy/Paradise/blob/master/snapshots/QQ%E6%88%AA%E5%9B%BE20160705150030.png?raw=true)
+  ![overlook](https://github.com/Code-Guy/Paradise/blob/master/snapshots/QQ%E6%88%AA%E5%9B%BE20160705150546.png?raw=true)
+  </center>
+  ![overlook](https://github.com/Code-Guy/Paradise/blob/master/snapshots/QQ%E6%88%AA%E5%9B%BE20160705150030.png?raw=true)
